@@ -1,21 +1,13 @@
-Hello, I'm Jamal Baptiste
-
-
-
-[ Introduction - 
+Introduction 
 
 Hi, I am Jamal Baptiste, a QA Security Engineer focused on building secure, reliable, and high-quality software through automated testing, vulnerability analysis, and continuous security validation. With a background in QA, cloud fundamentals, and cybersecurity principles, I specialize in bridging the gap between development and security by designing test frameworks, identifying security risks early, and ensuring applications meet both functional and security requirements.I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
-Objective
 
-[Provide Objective - Remove this afterwards]]
+Objective 
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My objective is to showcase hands-on security-focused QA projects that demonstrate my ability to test, break, secure, and validate modern applications. This portfolio highlights my skills in automated testing, API security, static and dynamic analysis, secure coding validation, and cloud-based security workflows. I aim to contribute to teams that prioritize secure development practices and continuous improvement within the SDLC.
 
 Skills
-
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
 Skill	Associated Project
 SIEM Implementation and Log Analysis	Detection Lab
 Network Traffic Monitoring and Attack Detection	Detection Lab
@@ -25,7 +17,6 @@ Case Management with TheHive	SOC Automation Lab
 Scripting and Automation for Threat Mitigation	SOC Automation Lab
 Tools
 
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 Network
 
@@ -35,13 +26,17 @@ Endpoint
   
 SIEM
 
+
+Cloud
+
     
 Certifications
+<img src="https://img.shields.io/badge/ISTQB-Foundation_Level-1E90FF?&style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/-Postman%20Expert-FF6C37?&style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-00A36C?&style=for-the-badge&logo=isc2&logoColor=white" />
 
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 
-    
 Projects
+-Detection Lab
+-SOC Automation Project
 
-Detection Lab
-SOC Automation Project
