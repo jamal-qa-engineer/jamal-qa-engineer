@@ -14,7 +14,7 @@ I am a QA Security Engineer focused on building secure, reliable, and high-quali
 
 
 
-Objective 
+## Objective
 
 My objective is to showcase hands-on security-focused QA projects that demonstrate my ability to test, break, secure, and validate modern applications. This portfolio highlights my skills in automated testing, API security, static and dynamic analysis, secure coding validation, and cloud-based security workflows. I aim to contribute to teams that prioritize secure development practices and continuous improvement within the SDLC.
 
