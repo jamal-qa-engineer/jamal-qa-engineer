@@ -2,6 +2,8 @@ Introduction
 
 Hi, I am Jamal Baptiste, a QA Security Engineer focused on building secure, reliable, and high-quality software through automated testing, vulnerability analysis, and continuous security validation. With a background in QA, cloud fundamentals, and cybersecurity principles, I specialize in bridging the gap between development and security by designing test frameworks, identifying security risks early, and ensuring applications meet both functional and security requirements.I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
+<a href="https://www.linkedin.com/in/jamalbaptiste" target="_blank">
+
 
 Objective 
 
