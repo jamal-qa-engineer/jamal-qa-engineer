@@ -32,7 +32,8 @@ My objective is to showcase hands-on security-focused QA projects that demonstra
 
 
 
-Tools
+### Tools
+
 
 ### Network
 <div>
@@ -56,11 +57,8 @@ Tools
 
 
 
-
-##Cloud
-
     
-Certifications
+### Certifications
 <img src="https://img.shields.io/badge/ISTQB-Foundation_Level-1E90FF?&style=for-the-badge&logo=checkmarx&logoColor=white" />
 <img src="https://img.shields.io/badge/-Postman%20Expert-FF6C37?&style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-00A36C?&style=for-the-badge&logo=isc2&logoColor=white" />
