@@ -23,7 +23,7 @@ My objective is to showcase hands-on security-focused QA projects that demonstra
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| AI Automation                                 | <a href="https://google.com">Detection Lab</a>|
+| AI Automation                                 | <a href="https://https://github.com/jamal-qa-engineer/Build-AI-Agent">AI Agent Creation</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -65,5 +65,5 @@ My objective is to showcase hands-on security-focused QA projects that demonstra
 
 
 ## Projects
-- AI Agent Creation
+- <a href="https://https://github.com/jamal-qa-engineer/Build-AI-Agent"> AI Agenet Creation</a>
 - SOC Automation Project
