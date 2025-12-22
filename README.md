@@ -25,7 +25,7 @@ My objective is to showcase hands-on security-focused QA projects that demonstra
 |-----------------------------------------------|----------------------------|
 | AI Automation                                 | <a href="https://https://github.com/jamal-qa-engineer/Build-AI-Agent">AI Agent Creation</a>|
 | Web Application Security Testing               | <a href="https://google.com">Detection Lab</a>|
-| Detect SQL injection                          | Port Swigger Lab|
+| Detect SQL injection                          | <a href="https://google.com">PortSwiggerLab</a>|
 
 
 ### Tools
