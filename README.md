@@ -24,12 +24,8 @@ My objective is to showcase hands-on security-focused QA projects that demonstra
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | AI Automation                                 | <a href="https://https://github.com/jamal-qa-engineer/Build-AI-Agent">AI Agent Creation</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
+| Web Application Security Testing               | <a href="https://google.com">Detection Lab</a>|
+| Detect SQL injection                          | Port Swigger Lab|
 
 
 ### Tools
