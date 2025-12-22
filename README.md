@@ -24,7 +24,7 @@ My objective is to showcase hands-on security-focused QA projects that demonstra
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | AI Automation                                 | <a href="https://https://github.com/jamal-qa-engineer/Build-AI-Agent">AI Agent Creation</a>|
-| Web Application Security Testing               | <a href="https://google.com">WebAppSecurityTesting</a>|
+| Web Application Security Testing              | <a href=https://github.com/jamal-qa-engineer/Web-Application-Security-Testing-OWASP-ZAP>WebAppSecurityTesting</a>|
 | Detect SQL injection                          | <a href=https://github.com/jamal-qa-engineer/SQL-Injection-Web-Security-Lab>PortSwiggerLab</a>|
 
 
@@ -62,4 +62,5 @@ My objective is to showcase hands-on security-focused QA projects that demonstra
 
 ## Projects
 - <a href="https://https://github.com/jamal-qa-engineer/Build-AI-Agent"> AI Agent Creation</a>
-- SOC Automation Project
+- <a href=https://github.com/jamal-qa-engineer/Web-Application-Security-Testing-OWASP-ZAP>WebAppSecurityTesting</a>
+- <a href=https://github.com/jamal-qa-engineer/SQL-Injection-Web-Security-Lab>PortSwiggerLab</a>
