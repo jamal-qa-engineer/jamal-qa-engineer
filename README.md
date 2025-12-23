@@ -61,6 +61,6 @@ My objective is to showcase hands-on security-focused QA projects that demonstra
 
 
 ## Projects
-- <a href="https://https://github.com/jamal-qa-engineer/Build-AI-Agent"> AI Agent Creation</a>
+- <a href=https://github.com/jamal-qa-engineer/Build-AI-Agent> AI Agent Creation</a>
 - <a href=https://github.com/jamal-qa-engineer/Web-Application-Security-Testing-OWASP-ZAP>WebAppSecurityTesting</a>
 - <a href=https://github.com/jamal-qa-engineer/SQL-Injection-Web-Security-Lab>PortSwiggerLab</a>
