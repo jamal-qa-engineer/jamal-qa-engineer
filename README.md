@@ -26,7 +26,7 @@ My objective is to showcase hands-on security-focused QA projects that demonstra
 | AI Automation                                 | <a href=https://github.com/jamal-qa-engineer/Build-AI-Agent>AI Agent Creation</a>|
 | Web Application Security Testing              | <a href=https://github.com/jamal-qa-engineer/Web-Application-Security-Testing-OWASP-ZAP>WebAppSecurityTesting</a>|
 | Detect SQL injection                          | <a href=https://github.com/jamal-qa-engineer/SQL-Injection-Web-Security-Lab>PortSwiggerLab</a>|
-| Pentration Testing                            |  <a href=https://github.com/jamal-qa-engineer/junior-penetration-testing-labs>Junior Penetration Tester TryHackMeLab</a>|
+| Pentration Testing                            | <a href=https://github.com/jamal-qa-engineer/junior-penetration-testing-labs>Junior Penetration Tester Try Hack Me Lab</a>|
 ### Tools
 
 
@@ -63,3 +63,4 @@ My objective is to showcase hands-on security-focused QA projects that demonstra
 - <a href=https://github.com/jamal-qa-engineer/Build-AI-Agent> AI Agent Creation</a>
 - <a href=https://github.com/jamal-qa-engineer/Web-Application-Security-Testing-OWASP-ZAP>WebAppSecurityTesting</a>
 - <a href=https://github.com/jamal-qa-engineer/SQL-Injection-Web-Security-Lab>PortSwiggerLab</a>
+- <a href=https://github.com/jamal-qa-engineer/junior-penetration-testing-labs>Junior Penetration Tester Try Hack Me Lab</a>
