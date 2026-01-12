@@ -65,3 +65,4 @@ My objective is to showcase hands-on security-focused QA projects that demonstra
 - <a href=https://github.com/jamal-qa-engineer/Web-Application-Security-Testing-OWASP-ZAP>WebAppSecurityTesting</a>
 - <a href=https://github.com/jamal-qa-engineer/SQL-Injection-Web-Security-Lab>PortSwiggerLab</a>
 - <a href=https://github.com/jamal-qa-engineer/junior-penetration-testing-labs>Junior Penetration Tester Try Hack Me Lab</a>
+- <a href=https://github.com/jamal-qa-engineer/junior-penetration-testing-labs>Penetration Testing Utilizing Metaploit Framework</a>
