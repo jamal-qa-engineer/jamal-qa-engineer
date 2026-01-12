@@ -27,7 +27,7 @@ My objective is to showcase hands-on security-focused QA projects that demonstra
 | Web Application Security Testing              | <a href=https://github.com/jamal-qa-engineer/Web-Application-Security-Testing-OWASP-ZAP>WebAppSecurityTesting</a>|
 | Detect SQL injection                          | <a href=https://github.com/jamal-qa-engineer/SQL-Injection-Web-Security-Lab>PortSwiggerLab</a>|
 | Pentration Testing                            | <a href=https://github.com/jamal-qa-engineer/junior-penetration-testing-labs>Junior Penetration Tester Try Hack Me Lab</a>|
-| Penetration Testing Using Metasploit          | <a href=https://https://github.com/jamal-qa-engineer/Network-Penetration-Testing-Metasploit-Framework>Metasploit Framework</a>|
+| Penetration Testing Using Metasploit          | <a href=https://github.com/jamal-qa-engineer/Network-Penetration-Testing-Metasploit-Framework>Metasploit Framework</a>|
 ### Tools
 
 
