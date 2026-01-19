@@ -28,6 +28,7 @@ My objective is to showcase hands-on security-focused QA projects that demonstra
 | Detect SQL injection                          | <a href=https://github.com/jamal-qa-engineer/SQL-Injection-Web-Security-Lab>PortSwiggerLab</a>|
 | Pentration Testing                            | <a href=https://github.com/jamal-qa-engineer/junior-penetration-testing-labs>Junior Penetration Tester Try Hack Me Lab</a>|
 | Penetration Testing Using Metasploit          | <a href=https://github.com/jamal-qa-engineer/Network-Penetration-Testing-Metasploit-Framework>Metasploit Framework</a>|
+| Creation and Configure Azure Entra ID Tenant  | <a href=https://https://github.com/jamal-qa-engineer/azure-entra-id-iam-tenant-setup>Azure ID Tenant</a>|
 ### Tools
 
 
